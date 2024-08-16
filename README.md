@@ -1,4 +1,4 @@
-## [My Project Portfolio Website](https://vincentariff.github.io)
+__Click to view [My Project Portfolio Website](https://vincentariff.github.io)__
 
 
 Massively by HTML5 UP
